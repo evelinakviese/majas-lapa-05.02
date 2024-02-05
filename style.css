@@ -1,0 +1,42 @@
+*{
+          margin: 0;
+         box-sizing: border-box;
+}
+body{
+          background-color: beige;
+          width: 100vw;
+          height: 100vh;
+}
+.logo{
+         background-color: darkslategrey;
+         height: 100px;
+         border: 2px solid black;
+}
+
+.bigbox1{
+          background-color: rgb(171, 69, 57);
+          background-size: 80%;
+          border: 2px solid black;
+          height: 1000px;
+          display: flex;
+          margin: 2px;
+          align-items: center;
+         justify-content: center;
+         gap: 600px;
+
+}
+.imgbox{
+  
+  height: 300px;     
+  width: 400px;
+
+}
+
+.loginbox{
+        background-color: rgb(212, 154, 134);
+          height: 100px;
+          width: 500px;
+         text-align: center;
+       font-family: cursive;
+
+}
